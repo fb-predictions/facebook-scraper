@@ -6,7 +6,7 @@ The changes were made in order to:
 * Collect all reactions and not only likes.
 * Collect more posts from each group.
 
-It was originally made as part of the ai-project [fb-predictions]()
+It was originally made as part of the ai-project [fb-predictions](https://github.com/fb-predictions/fb-predictions)
 The revised version incorporate the use of ChromeDriver and a cookie that the user has to provide (detials below).
 
 ## Install
