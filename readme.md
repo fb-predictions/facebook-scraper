@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 * Download [ChromeDriver](https://chromedriver.chromium.org/downloads) to the project's directory.
 
-* Collect Cookie: when logged in to facebook, open developer tools >> networks, and copy the cookie into a file named *cookie.txt* inside *reaction* folder.
+* Collect Cookie: when logged in to facebook, open developer tools >> networks, and copy the cookie into a file named *cookies.txt* inside *reaction* folder.
 
 
 ## Usage
